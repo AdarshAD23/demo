@@ -15,7 +15,7 @@ jobs:
       - name: test dependencies 
         run: npm test 
       - name: Print hello
-        run: echo " hello"
+        run: echo " hello Adarsh"
 
         #- run: npm ci
         #- run: npm test
